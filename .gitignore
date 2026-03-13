@@ -1,0 +1,5 @@
+house_prices.csv
+.venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
